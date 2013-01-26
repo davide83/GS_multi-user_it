@@ -1,15 +1,21 @@
 <?php
 
-/***************************************************************
-		Italian Language for "user-managment v 1.8.2"
+/*************************************************************************
 
-		@author: 	Davide Letizia
-		@website: http://letek.it
-		@url:			https://github.com/davide83/GS_multi-user_it.git
-		
-		Updated at 2013-01-26	
+ 		@File: 		  user-managment.php
+ 		@Package:		Multi User
+ 		@Subject:		Italian language file
+		@Date:		  26 January 2013
+ 		@Revision:	20 February 2012
+ 		@Version:		1.8.2
+ 		@Status:		Beta
+ 		@Author:		Davide Letizia (http://letek.it)
+		@url:				https://github.com/davide83/GS_multi-user_it.git
 
-****************************************************************/
+		This is licensed under the GNU GENERAL PUBLIC LICENSE. 
+		Please view the license at http://www.gnu.org/licenses/gpl-3.0.txt
+
+**************************************************************************/
 
 $i18n = array(
 'TITLE' => "Gestione Utenti",
