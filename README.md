@@ -6,7 +6,7 @@ Italian language for "Multi User", a Get Simple CMS plugin
 
 INSTALL
 =========
-Unpack this file and puts the "it_IT.php" file to the "/GetSimple-Install-Dir/plugins/mld-newsletter/lang/" folder.
+Unpack this file and puts the "it_IT.php" file to the "/GetSimple-Install-Dir/plugins/user-managment/lang/" folder.
 
 
 LICENSE
